@@ -50,7 +50,7 @@ It implements a **page‑based storage manager**, packed on‑disk structures, a
 
 ```bash
 # Clone the repository (or copy tinydb.cpp into a directory)
-git clone https://github.com/your‑username/tinydb.git
+git clone https://github.com/sadopc/tinydb.git
 cd tinydb
 
 # Build the executable (debug disabled, optimised)
